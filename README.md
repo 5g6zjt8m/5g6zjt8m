@@ -13,6 +13,9 @@ I kind of hate rattling off skills without context. This is a general list of so
 | Powershell Scripting              | [Powershell-Registry-Edits](https://github.com/5g6zjt8m/Powershell-Registry-Edits) 	|
 | Intune Integration        	    | [Powershell-Registry-Edits](https://github.com/5g6zjt8m/Powershell-Registry-Edits) 	|
 | Remote Troubleshooting            | [Powershell-Registry-Edits](https://github.com/5g6zjt8m/Powershell-Registry-Edits) 	|
+| Data Migration/Storage Management | [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/Warranty-Automation) 	|
+| System Administration             | [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/Warranty-Automation) 	|
+| Network Configuration/Troubleshooting| [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/Warranty-Automation) 	|
 | Documentation           	        | (You are here) 	                                                        |
 
 
@@ -45,7 +48,8 @@ Many, many hours spent here. Especially with Intune. Sync times are measured in 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="20"/>[VirtualBox](https://www.virtualbox.org/),
 <img src="https://www.tenforums.com/geek/gars/images/2/types/thumb_Hyper_V_Manager.png" alt="HyperV" width="20"/> [Hyper-V](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-technology-overview),
 <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="Windows Server" width="20"/> [Windows Server](https://www.microsoft.com/en-us/windows-server),
-<img src="https://community.synology.com/images/picture/1280x1280/507/1588829446_24nk8.png" alt="Cisco IOS" width="20"/> [Synology DSM](https://www.synology.com/en-us/dsm)
+<img src="https://community.synology.com/images/picture/1280x1280/507/1588829446_24nk8.png" alt="Cisco IOS" width="20"/> [Synology DSM](https://www.synology.com/en-us/dsm),
+<img src="https://microsoft.github.io/CSS-SystemCenter/VMM.png" alt="SCVMM" width="20"/> [System Center Virtual Machine Manager](https://learn.microsoft.com/en-us/system-center/vmm/?view=sc-vmm-2022)
 
 I'm a big fan of the mobility and flexibility that virtualization brings. I run my own Proxmox server at home and it has been invaluable for testing and labbing.
 
@@ -55,7 +59,8 @@ I'm a big fan of the mobility and flexibility that virtualization brings. I run 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png" alt="JSON" width="20"/>[JSON](https://www.json.org/json-en.html),
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Text-xml.svg/2233px-Text-xml.svg.png" alt="XML" width="20"/> [XML](https://en.wikipedia.org/wiki/XML),
 <img src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png" alt="AutoHotKey" width="20"/> [AutoHotKey](https://www.autohotkey.com/),
-<img src="https://play-lh.googleusercontent.com/aeXs0qriXwmHVWtq9u4zVUO6SifULKtJOQdtBg6wDQqaNEaaJKl6b2oiABMmHn6yLH8" alt="Power Automate" width="20"/>[Power Automate](https://www.microsoft.com/en-us/power-platform/products/power-automate)
+<img src="https://play-lh.googleusercontent.com/aeXs0qriXwmHVWtq9u4zVUO6SifULKtJOQdtBg6wDQqaNEaaJKl6b2oiABMmHn6yLH8" alt="Power Automate" width="20"/> [Power Automate](https://www.microsoft.com/en-us/power-platform/products/power-automate),
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="20"/> [Git](https://git-scm.com/)
 
 ## Certifications
 <img src="https://images.credly.com/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" alt="A+" width="200"/> <img src="https://images.credly.com/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="Network+" width="200"/>
@@ -65,3 +70,4 @@ A+ and Network+ certified, next one I'm currently working to achieve is the CCNA
 ## Projects
 - [Warranty-Automation](https://github.com/5g6zjt8m/Warranty-Automation)
 - [Powershell-Registry-Edits](https://github.com/5g6zjt8m/Powershell-Registry-Edits)
+- [HomeLab](https://github.com/5g6zjt8m/HomeLab)
