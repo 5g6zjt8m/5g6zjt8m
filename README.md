@@ -13,9 +13,9 @@ I kind of hate rattling off skills without context. This is a general list of so
 | Powershell Scripting              | [Powershell-Registry-Edits](https://github.com/5g6zjt8m/Powershell-Registry-Edits) 	|
 | Intune Integration        	    | [Powershell-Registry-Edits](https://github.com/5g6zjt8m/Powershell-Registry-Edits) 	|
 | Remote Troubleshooting            | [Powershell-Registry-Edits](https://github.com/5g6zjt8m/Powershell-Registry-Edits) 	|
-| Data Migration/Storage Management | [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/HomeLab) 	|
-| System Administration             | [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/HomeLab) 	|
-| Network Configuration/Troubleshooting| [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/HomeLab) 	|
+| Data Migration/Storage Management | [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-2_Prefacing) 	|
+| System Administration             | [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-2_Prefacing) 	|
+| Network Configuration/Troubleshooting| [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-2_Prefacing) 	|
 | Documentation           	        | (You are here) 	                                                        |
 
 
