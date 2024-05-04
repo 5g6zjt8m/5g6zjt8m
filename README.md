@@ -1,5 +1,7 @@
 # Hello, I'm Mitchell.
 
+![](https://komarev.com/ghpvc/?username=5g6zjt8m&color=blue&style=flat-square)
+
 Welcome to my GitHub. Feel free to poke around my public repositories and take a look at some of my documented projects.
 
 ## Skills
@@ -16,8 +18,11 @@ I kind of hate rattling off skills without context. This is a general list of so
 | Data Migration/Storage Management | [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-2_Prefacing) 	|
 | System Administration             | [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-2_Prefacing) 	|
 | Network Configuration/Troubleshooting| [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-2_Prefacing) 	|
+| Linux Configuration               | [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-2_Prefacing) 	|
+| Windows Task Scheduler            | [Powershell-Task-Scheduler](https://github.com/5g6zjt8m/Powershell-Task-Scheduler) 	|
+| XML Configuration                 | [Powershell-Task-Scheduler](https://github.com/5g6zjt8m/Powershell-Task-Scheduler) 	|
+| Intune Application Packaging      | [Powershell-Task-Scheduler](https://github.com/5g6zjt8m/Powershell-Task-Scheduler) 	|
 | Documentation           	        | (You are here) 	                                                        |
-
 
 ## Tools and Technologies
 Here are some of the tools and technologies that I have varying degrees of experience in, broken down into categories.
@@ -38,18 +43,24 @@ These are useful for packet capture and analysis, SSH/serial connections, findin
 <img src="https://play-lh.googleusercontent.com/9jqnFF6rpeGZx92dyWCjfUocVSEI8D_elLj6IDRb_qko4nTwwQ_8QHW8mUQ3l3vkFTvi" alt="Intune" width="20"/> [Intune](https://intune.microsoft.com/), 
 <img src="https://soti.net/media/jngbnw3f/soti-mobicontrol-icon.png" alt="SOTI" width="20"/> [SOTI MobiControl](https://soti.net/products/soti-mobicontrol/), 
 <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/sophos_icon_146050.png" alt="Sophos" width="20"/> [Sophos](https://www.sophos.com/en-us),
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYmNK6Irz70499oDPDtoT-dCYNRI5KBAuVPMdeSGmHg&s" alt="Teamviewer" width="20"/> [TeamViewer](https://www.teamviewer.com/en-us/)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYmNK6Irz70499oDPDtoT-dCYNRI5KBAuVPMdeSGmHg&s" alt="Teamviewer" width="20"/> [TeamViewer](https://www.teamviewer.com/en-us/),
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUlixvmUMsyW6Gyw7C0Ac_Xy1Y35igP18lJTQTQKhRA&s" alt="VNC" width="20"/> [VNC](https://www.realvnc.com/en/),
+<img src="https://www.tenforums.com/geek/gars/images/2/types/thumb__emote__esktop__onnection.png" alt="RDP" width="20"/> [RDP](https://learn.microsoft.com/en-us/troubleshoot/windows-server/remote/understanding-remote-desktop-protocol)
 
 Many, many hours spent here. Especially with Intune. Sync times are measured in Microsoft Minutes™. These are all very powerful pieces of software, and I've utilized SCCM and Intune quite extensively. Sophos is an enterprise antivirus that I have created configurations in.
 
-### Server/Virtualization
+### Server/Virtualization/Cloud
 <img src="https://camo.githubusercontent.com/cb6c50486cf76c4a9a9a4c7811f8bf97f59f7512d11119a386021086997cae0e/68747470733a2f2f7777772e70726f786d6f782e636f6d2f696d616765732f70726f786d6f782f50726f786d6f785f73796d626f6c5f7374616e646172645f6865782e706e67" alt="Proxmox" width="20"/> [Proxmox](https://www.proxmox.com/en/about/media-kit),
 <img src="https://play-lh.googleusercontent.com/zIImkiE6y_aq9IV0ndhHcqS0W6HBKk1iUSYn01BDQk3fs27xm-o3PjkIbpAoUgjnD04=w240-h480-rw" alt="HP iLO" width="20"/> [HP iLO](https://www.hpe.com/us/en/hpe-integrated-lights-out-ilo.html),
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="20"/>[VirtualBox](https://www.virtualbox.org/),
 <img src="https://www.tenforums.com/geek/gars/images/2/types/thumb_Hyper_V_Manager.png" alt="HyperV" width="20"/> [Hyper-V](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-technology-overview),
 <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="Windows Server" width="20"/> [Windows Server](https://www.microsoft.com/en-us/windows-server),
 <img src="https://community.synology.com/images/picture/1280x1280/507/1588829446_24nk8.png" alt="Cisco IOS" width="20"/> [Synology DSM](https://www.synology.com/en-us/dsm),
-<img src="https://microsoft.github.io/CSS-SystemCenter/VMM.png" alt="SCVMM" width="20"/> [System Center Virtual Machine Manager](https://learn.microsoft.com/en-us/system-center/vmm/?view=sc-vmm-2022)
+<img src="https://microsoft.github.io/CSS-SystemCenter/VMM.png" alt="SCVMM" width="20"/> [System Center Virtual Machine Manager](https://learn.microsoft.com/en-us/system-center/vmm/?view=sc-vmm-2022),
+<img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="20"/> [MongoDB](https://www.mongodb.com/),
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure" width="20"/> [Azure Active Directory](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id),
+<img src="https://static-00.iconduck.com/assets.00/office-365-orange-icon-435x512-dr1qkken.png" alt="O365" width="20"/> [Office 365](https://www.office.com/),
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg/2560px-Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg.png" alt="OneDrive" width="20"/> [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)
 
 I'm a big fan of the mobility and flexibility that virtualization brings. I run my own Proxmox server at home and it has been invaluable for testing and labbing.
 
@@ -71,3 +82,4 @@ A+ and Network+ certified, next one I'm currently working to achieve is the CCNA
 - [Warranty-Automation](https://github.com/5g6zjt8m/Warranty-Automation)
 - [Powershell-Registry-Edits](https://github.com/5g6zjt8m/Powershell-Registry-Edits)
 - [HomeLab](https://github.com/5g6zjt8m/HomeLab)
+- [Powershell-Task-Scheduler](https://github.com/5g6zjt8m/Powershell-Task-Scheduler)
