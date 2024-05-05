@@ -56,7 +56,7 @@ Many, many hours spent here. Especially with Intune. Sync times are measured in 
 <img src="https://www.tenforums.com/geek/gars/images/2/types/thumb_Hyper_V_Manager.png" alt="HyperV" width="20"/> [Hyper-V](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-technology-overview),
 <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="Windows Server" width="20"/> [Windows Server](https://www.microsoft.com/en-us/windows-server),
 <img src="https://community.synology.com/images/picture/1280x1280/507/1588829446_24nk8.png" alt="Cisco IOS" width="20"/> [Synology DSM](https://www.synology.com/en-us/dsm),
-<img src="https://microsoft.github.io/CSS-SystemCenter/VMM.png" alt="SCVMM" width="20"/> [System Center Virtual Machine Manager](https://learn.microsoft.com/en-us/system-center/vmm/?view=sc-vmm-2022),
+<img src="https://microsoft.github.io/CSS-SystemCenter/VMM.png" alt="SCVMM" width="20"/> [System Center Virtual Machine Manager (SCVMM)](https://learn.microsoft.com/en-us/system-center/vmm/?view=sc-vmm-2022),
 <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="20"/> [MongoDB](https://www.mongodb.com/),
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure" width="20"/> [Azure Active Directory](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id),
 <img src="https://static-00.iconduck.com/assets.00/office-365-orange-icon-435x512-dr1qkken.png" alt="O365" width="20"/> [Office 365](https://www.office.com/),
@@ -76,7 +76,11 @@ I'm a big fan of the mobility and flexibility that virtualization brings. I run 
 ## Certifications
 <img src="https://images.credly.com/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" alt="A+" width="200"/> <img src="https://images.credly.com/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="Network+" width="200"/>
 
-A+ and Network+ certified, next one I'm currently working to achieve is the CCNA.
+A+ and Network+ certified, next one I'm currently working to achieve is the CCNA. I think that it's also important to show the depth of the exam material for these certifications, and I have links to the exam objectives below.
+
+[A+ Core 1](/comptia-a-220-1001-exam-objectives.pdf), [A+ Core 2](/comptia-a-220-1002-exam-objectives.pdf), [Network+](/comptia-network-n10-008-exam-objectives-(2-0).pdf), [CCNA](/Microsoft%20Word%20-%20200-301-CCNA-v1.0%20edited.docx%20-%20200_301_CCNA_v1.0_2.pdf)
+
+I would also like to point out the extent of command line memorization necessary for the CCNA. [Here's a link](/CCNA-Commands) to a document that lists about 500 or so Cisco IOS commands that are necessary to understand for the CCNA.
 
 ## Projects
 - [Warranty-Automation](https://github.com/5g6zjt8m/Warranty-Automation)
