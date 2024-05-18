@@ -15,13 +15,16 @@ I kind of hate rattling off skills without context. This is a general list of so
 | Powershell Scripting              | [Powershell-Registry-Edits](https://github.com/5g6zjt8m/Powershell-Registry-Edits) 	|
 | Intune Integration        	    | [Powershell-Registry-Edits](https://github.com/5g6zjt8m/Powershell-Registry-Edits) 	|
 | Remote Troubleshooting            | [Powershell-Registry-Edits](https://github.com/5g6zjt8m/Powershell-Registry-Edits) 	|
-| Data Migration/Storage Management | [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-2_Prefacing) 	|
-| System Administration             | [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-2_Prefacing) 	|
-| Network Configuration/Troubleshooting| [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-2_Prefacing) 	|
-| Linux Configuration               | [HomeLab/2024-5-2_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-2_Prefacing) 	|
+| Data Migration/Storage Management | [HomeLab/2024-5-02_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-02_Prefacing) 	|
+| System Administration             | [HomeLab/2024-5-02_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-02_Prefacing) 	|
+| Network Configuration/Troubleshooting| [HomeLab/2024-5-02_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-02_Prefacing) 	|
+| Linux Configuration               | [HomeLab/2024-5-02_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-02_Prefacing) 	|
 | Windows Task Scheduler            | [Powershell-Task-Scheduler](https://github.com/5g6zjt8m/Powershell-Task-Scheduler) 	|
 | XML Configuration                 | [Powershell-Task-Scheduler](https://github.com/5g6zjt8m/Powershell-Task-Scheduler) 	|
 | Intune Application Packaging      | [Powershell-Task-Scheduler](https://github.com/5g6zjt8m/Powershell-Task-Scheduler) 	|
+| Encryption/Security               | [HomeLab/2024-5-18_NewHost](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-18_NewHost) 	|
+| Backup/Recovery                   | [HomeLab/2024-5-18_NewHost](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-18_NewHost) 	|
+| Virtual Machine Management        | [HomeLab/2024-5-18_NewHost](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-18_NewHost) 	|
 | Documentation           	        | (You are here) 	                                                        |
 
 ## Tools and Technologies
@@ -45,7 +48,9 @@ These are useful for packet capture and analysis, SSH/serial connections, findin
 <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/sophos_icon_146050.png" alt="Sophos" width="20"/> [Sophos](https://www.sophos.com/en-us),
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYmNK6Irz70499oDPDtoT-dCYNRI5KBAuVPMdeSGmHg&s" alt="Teamviewer" width="20"/> [TeamViewer](https://www.teamviewer.com/en-us/),
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUlixvmUMsyW6Gyw7C0Ac_Xy1Y35igP18lJTQTQKhRA&s" alt="VNC" width="20"/> [VNC](https://www.realvnc.com/en/),
-<img src="https://www.tenforums.com/geek/gars/images/2/types/thumb__emote__esktop__onnection.png" alt="RDP" width="20"/> [RDP](https://learn.microsoft.com/en-us/troubleshoot/windows-server/remote/understanding-remote-desktop-protocol)
+<img src="https://www.tenforums.com/geek/gars/images/2/types/thumb__emote__esktop__onnection.png" alt="RDP" width="20"/> [RDP](https://learn.microsoft.com/en-us/troubleshoot/windows-server/remote/understanding-remote-desktop-protocol),
+<img src="https://taiwebs.com/upload/icons/macrium-reflect-winpe220-220.png" alt="Macrium Reflect" width="20"/> [Macrium Reflect](https://www.macrium.com/),
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1XW_9VLrWOrckNvJhfXrJUfhmKtaOFi-im6mAqmm4-Q&s" alt="GParted" width="20"/> [GParted](https://gparted.org/)
 
 Many, many hours spent here. Especially with Intune. Sync times are measured in Microsoft Minutes™. These are all very powerful pieces of software, and I've utilized SCCM and Intune quite extensively. Sophos is an enterprise antivirus that I have created configurations in.
 
