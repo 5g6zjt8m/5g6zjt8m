@@ -15,16 +15,18 @@ I kind of hate rattling off skills without context. This is a general list of so
 | Powershell Scripting              | [Powershell-Registry-Edits](https://github.com/5g6zjt8m/Powershell-Registry-Edits) 	|
 | Intune Integration        	    | [Powershell-Registry-Edits](https://github.com/5g6zjt8m/Powershell-Registry-Edits) 	|
 | Remote Troubleshooting            | [Powershell-Registry-Edits](https://github.com/5g6zjt8m/Powershell-Registry-Edits) 	|
-| Data Migration/Storage Management | [HomeLab/2024-5-02_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-02_Prefacing) 	|
-| System Administration             | [HomeLab/2024-5-02_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-02_Prefacing) 	|
-| Network Configuration/Troubleshooting| [HomeLab/2024-5-02_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-02_Prefacing) 	|
-| Linux Configuration               | [HomeLab/2024-5-02_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-02_Prefacing) 	|
+| Data Migration/Storage Management | [HomeLab/2024-05-02_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-05-02_Prefacing) 	|
+| System Administration             | [HomeLab/2024-05-02_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-05-02_Prefacing) 	|
+| Network Configuration/Troubleshooting| [HomeLab/2024-05-02_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-05-02_Prefacing) 	|
+| Linux Configuration               | [HomeLab/2024-05-02_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-05-02_Prefacing) 	|
 | Windows Task Scheduler            | [Powershell-Task-Scheduler](https://github.com/5g6zjt8m/Powershell-Task-Scheduler) 	|
 | XML Configuration                 | [Powershell-Task-Scheduler](https://github.com/5g6zjt8m/Powershell-Task-Scheduler) 	|
 | Intune Application Packaging      | [Powershell-Task-Scheduler](https://github.com/5g6zjt8m/Powershell-Task-Scheduler) 	|
-| Encryption/Security               | [HomeLab/2024-5-18_NewHost](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-18_NewHost) 	|
-| Backup/Recovery                   | [HomeLab/2024-5-18_NewHost](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-18_NewHost) 	|
-| Virtual Machine Management        | [HomeLab/2024-5-18_NewHost](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-5-18_NewHost) 	|
+| Encryption/Security               | [HomeLab/2024-05-18_NewHost](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-05-18_NewHost) 	|
+| Backup/Recovery                   | [HomeLab/2024-05-18_NewHost](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-05-18_NewHost) 	|
+| Virtual Machine Management        | [HomeLab/2024-05-18_NewHost](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-05-18_NewHost) 	|
+| DHCP/DNS                          | [HomeLab/2024-06-01_DNS](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-06-01_DNS) 	|
+| Containerization                  | [HomeLab/2024-06-01_DNS](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-06-01_DNS) 	|
 | Documentation           	        | (You are here) 	                                                        |
 
 ## Tools and Technologies
@@ -64,8 +66,9 @@ Many, many hours spent here. Especially with Intune. Sync times are measured in 
 <img src="https://microsoft.github.io/CSS-SystemCenter/VMM.png" alt="SCVMM" width="20"/> [System Center Virtual Machine Manager (SCVMM)](https://learn.microsoft.com/en-us/system-center/vmm/?view=sc-vmm-2022),
 <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="20"/> [MongoDB](https://www.mongodb.com/),
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure" width="20"/> [Azure Active Directory](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id),
-<img src="https://static-00.iconduck.com/assets.00/office-365-orange-icon-435x512-dr1qkken.png" alt="O365" width="20"/> [Office 365](https://www.office.com/),
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg/2560px-Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg.png" alt="OneDrive" width="20"/> [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)
+<img src="https://its.unc.edu/wp-content/uploads/sites/337/2018/02/office365-icon.png" alt="O365" width="20"/> [Office 365](https://www.office.com/),
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg/2560px-Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg.png" alt="OneDrive" width="20"/> [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage), 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Linux_Containers_logo.svg/1200px-Linux_Containers_logo.svg.png" alt="LXC" width="20"/> [LXC](https://linuxcontainers.org/)
 
 I'm a big fan of the mobility and flexibility that virtualization brings. I run my own Proxmox server at home and it has been invaluable for testing and labbing.
 
