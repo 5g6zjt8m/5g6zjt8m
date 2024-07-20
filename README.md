@@ -27,6 +27,7 @@ I kind of hate rattling off skills without context. This is a general list of so
 | Virtual Machine Management        | [HomeLab/2024-05-18_NewHost](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-05-18_NewHost) 	|
 | DHCP/DNS                          | [HomeLab/2024-06-01_DNS](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-06-01_DNS) 	|
 | Containerization                  | [HomeLab/2024-06-01_DNS](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-06-01_DNS) 	|
+| Linux Troubleshooting             | [HomeLab/2024-07-20_Recovering](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-07-20_Recovering) 	|
 | Documentation           	        | (You are here) 	                                                        |
 
 ## Tools and Technologies
