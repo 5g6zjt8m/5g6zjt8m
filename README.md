@@ -83,9 +83,9 @@ I'm a big fan of the mobility and flexibility that virtualization brings. I run 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="20"/> [Git](https://git-scm.com/)
 
 ## Certifications
-<img src="https://images.credly.com/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" alt="A+" width="200"/> <img src="https://images.credly.com/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="Network+" width="200"/>
+<img src="https://www.practicalnetworking.net/wp-content/uploads/2019/10/CCNA-Certification-Logo.jpg" alt="CCNA" width="200"/> <img src="https://images.credly.com/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="Network+" width="200"/> <img src="https://images.credly.com/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" alt="A+" width="200"/>
 
-A+ and Network+ certified, next one I'm currently working to achieve is the CCNA. I think that it's also important to show the depth of the exam material for these certifications, and I have links to the exam objectives below.
+A+, Network+, and CCNA certified, next one I'm pursuing is the Security+. I think that it's also important to show the depth of the exam material for these certifications, and I have links to the exam objectives below.
 
 [A+ Core 1](/comptia-a-220-1001-exam-objectives.pdf), [A+ Core 2](/comptia-a-220-1002-exam-objectives.pdf), [Network+](/comptia-network-n10-008-exam-objectives-(2-0).pdf), [CCNA](/Microsoft%20Word%20-%20200-301-CCNA-v1.0%20edited.docx%20-%20200_301_CCNA_v1.0_2.pdf)
 
