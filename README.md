@@ -19,6 +19,10 @@ I kind of hate rattling off skills without context. This is a general list of so
 |-------------------------------	|------------------------------------------------------------------------	|
 | 📡 Network Configuration/Troubleshooting| [HomeLab/2024-05-02_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-05-02_Prefacing) 	|
 | 🔄 DHCP/DNS                          | [HomeLab/2024-06-01_DNS](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-06-01_DNS) 	|
+| 🛜 Virtual Networking                          | [HomeLab/2024-09-15_VirtualNetwork](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-09-15_VirtualNetwork) 	|
+| 🔗 LAN Setup                          | [HomeLab/2024-09-15_VirtualNetwork](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-09-15_VirtualNetwork) 	|
+
+
 
 - The above list does not include the countless Packet Tracer and NetSim labs that I completed in preparation for the CCNA. Actually configuring a home network with Cisco equipment is... not ideal. Loud, huge, power hungry, best mounted in a full depth rack, extraordinarily expensive, licensing issues...
 
