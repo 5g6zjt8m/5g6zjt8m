@@ -19,10 +19,8 @@ I kind of hate rattling off skills without context. This is a general list of so
 |-------------------------------	|------------------------------------------------------------------------	|
 | 📡 Network Configuration/Troubleshooting| [HomeLab/2024-05-02_Prefacing](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-05-02_Prefacing) 	|
 | 🔄 DHCP/DNS                          | [HomeLab/2024-06-01_DNS](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-06-01_DNS) 	|
-| 🛜 Virtual Networking                          | [HomeLab/2024-09-15_VirtualNetwork](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-09-15_VirtualNetwork) 	|
-| 🔗 LAN Setup                          | [HomeLab/2024-09-15_VirtualNetwork](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-09-15_VirtualNetwork) 	|
-
-
+| 🛜 Virtual Networking/Segmentation                          | [HomeLab/2024-09-15_VirtualNetwork](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-09-15_VirtualNetwork) 	|
+| <img src="https://static-00.iconduck.com/assets.00/openwrt-icon-220x256-xqscx4eg.png" alt="OpenWrt" width="20"/> Bridge/Interface Configuration                          | [HomeLab/2024-09-28_OpenWrt](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-09-28_OpenWrt) 	|
 
 - The above list does not include the countless Packet Tracer and NetSim labs that I completed in preparation for the CCNA. Actually configuring a home network with Cisco equipment is... not ideal. Loud, huge, power hungry, best mounted in a full depth rack, extraordinarily expensive, licensing issues...
 
@@ -62,7 +60,8 @@ Here are some of the tools and technologies that I have varying degrees of exper
 <img src="https://nmap.org/images/sitelogo.png" alt="Zenmap" width="20"/> [Zenmap](https://nmap.org/zenmap/), 
 <img src="https://kinlane-productions2.s3.amazonaws.com/postman/logo-glyph.png" alt="Zenmap" width="20"/> [Postman](https://www.postman.com/),
 <img src="https://play-lh.googleusercontent.com/6xPvOaJmSyc68OzFx9d84uxGZuxOQg6DYgwWUIp_DoeXaT1u_wtdtnSu8wgT7N-344fk" alt="UniFi" width="20"/>[Unifi](https://www.ui.com/introduction),
-<img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/cisco-512.png" alt="Cisco IOS" width="20"/>[Cisco IOS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/index.html), <img src="https://fortifirewall.com.br/config/imagens_conteudo/categorias/thumbnail/web-product-icon-fortinac.png" alt="FortiNAC" width="20"/> [FortiNAC](https://www.fortinet.com/products/network-access-control)
+<img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/cisco-512.png" alt="Cisco IOS" width="20"/>[Cisco IOS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/index.html), <img src="https://fortifirewall.com.br/config/imagens_conteudo/categorias/thumbnail/web-product-icon-fortinac.png" alt="FortiNAC" width="20"/> [FortiNAC](https://www.fortinet.com/products/network-access-control),
+<img src="https://static-00.iconduck.com/assets.00/openwrt-icon-220x256-xqscx4eg.png" alt="OpenWrt" width="20"/> [OpenWrt](https://github.com/openwrt/openwrt)
 
 - These are useful for packet capture and analysis, SSH/serial connections, finding devices on a subnet, discovering blocked/open ports on Windows, and testing out API calls.
 
