@@ -21,8 +21,10 @@ I kind of hate rattling off skills without context. This is a general list of so
 | 🔄 DHCP/DNS                          | [HomeLab/2024-06-01_DNS](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-06-01_DNS) 	|
 | 🛜 Virtual Networking/Segmentation                          | [HomeLab/2024-09-15_VirtualNetwork](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-09-15_VirtualNetwork) 	|
 | <img src="https://static-00.iconduck.com/assets.00/openwrt-icon-220x256-xqscx4eg.png" alt="OpenWrt" width="20"/> Bridge/Interface Configuration                          | [HomeLab/2024-09-28_OpenWrt](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-09-28_OpenWrt) 	|
+| <img src="https://avatars.githubusercontent.com/u/6233056?s=48&v=4" alt="Wireshark" width="20"/> Packet Capture                          | [HomeLab/2024-11-09_ReverseProxy](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-11-09_ReverseProxy) 	|
+| <img src="https://www.myqnap.org/wp-content/uploads/nginx-3628948-3030173-1.png" alt="Nginx" width="20"/> Proxy Configuration                          | [HomeLab/2024-11-09_ReverseProxy](https://github.com/5g6zjt8m/HomeLab/tree/main/Entries/2024-11-09_ReverseProxy) 	|
 
-- The above list does not include the countless Packet Tracer and NetSim labs that I completed in preparation for the CCNA. Actually configuring a home network with Cisco equipment is... not ideal. Loud, huge, power hungry, best mounted in a full depth rack, extraordinarily expensive, licensing issues...
+- The above list does not include the countless Packet Tracer and NetSim labs that I completed in preparation for the CCNA. Actually configuring a home network with Cisco equipment is... not ideal. Loud, huge, power hungry, extraordinarily expensive, licensing issues...
 
 - I may create a repository for explaining some lab solutions in the future.
 
@@ -61,7 +63,7 @@ Here are some of the tools and technologies that I have varying degrees of exper
 <img src="https://kinlane-productions2.s3.amazonaws.com/postman/logo-glyph.png" alt="Zenmap" width="20"/> [Postman](https://www.postman.com/),
 <img src="https://play-lh.googleusercontent.com/6xPvOaJmSyc68OzFx9d84uxGZuxOQg6DYgwWUIp_DoeXaT1u_wtdtnSu8wgT7N-344fk" alt="UniFi" width="20"/>[Unifi](https://www.ui.com/introduction),
 <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/cisco-512.png" alt="Cisco IOS" width="20"/>[Cisco IOS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/index.html), <img src="https://fortifirewall.com.br/config/imagens_conteudo/categorias/thumbnail/web-product-icon-fortinac.png" alt="FortiNAC" width="20"/> [FortiNAC](https://www.fortinet.com/products/network-access-control),
-<img src="https://static-00.iconduck.com/assets.00/openwrt-icon-220x256-xqscx4eg.png" alt="OpenWrt" width="20"/> [OpenWrt](https://github.com/openwrt/openwrt)
+<img src="https://static-00.iconduck.com/assets.00/openwrt-icon-220x256-xqscx4eg.png" alt="OpenWrt" width="20"/> [OpenWrt](https://github.com/openwrt/openwrt), <img src="https://www.myqnap.org/wp-content/uploads/nginx-3628948-3030173-1.png" alt="Nginx" width="20"/> [Nginx](https://nginx.org/en/)
 
 - These are useful for packet capture and analysis, SSH/serial connections, finding devices on a subnet, discovering blocked/open ports on Windows, and testing out API calls.
 
