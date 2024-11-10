@@ -106,11 +106,11 @@ Here are some of the tools and technologies that I have varying degrees of exper
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="20"/> [Git](https://git-scm.com/)
 
 ## 📜 Certifications
-<img src="https://www.practicalnetworking.net/wp-content/uploads/2019/10/CCNA-Certification-Logo.jpg" alt="CCNA" width="200"/> <img src="https://images.credly.com/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="Network+" width="200"/> <img src="https://images.credly.com/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" alt="A+" width="200"/>
+<img src="https://www.practicalnetworking.net/wp-content/uploads/2019/10/CCNA-Certification-Logo.jpg" alt="CCNA" width="200"/> <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="FCA" width="200"/> <img src="https://images.credly.com/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="Network+" width="200"/> <img src="https://images.credly.com/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" alt="A+" width="200"/>
 
-- **A+, Network+, and CCNA certified**. I think that it's also important to show the depth of the exam material for these certifications, and I have links to the exam objectives below.
+- **A+, Network+, FCA, and CCNA certified**. I think that it's also important to show the depth of the exam material for these certifications, and I have links to the exam objectives below.
 
-  - [A+ Core 1](/comptia-a-220-1001-exam-objectives.pdf), [A+ Core 2](/comptia-a-220-1002-exam-objectives.pdf), [Network+](/comptia-network-n10-008-exam-objectives-(2-0).pdf), [CCNA](/Microsoft%20Word%20-%20200-301-CCNA-v1.0%20edited.docx%20-%20200_301_CCNA_v1.0_2.pdf)
+  - [A+ Core 1](/comptia-a-220-1001-exam-objectives.pdf), [A+ Core 2](/comptia-a-220-1002-exam-objectives.pdf), [Network+](/comptia-network-n10-008-exam-objectives-(2-0).pdf), [CCNA](/Microsoft%20Word%20-%20200-301-CCNA-v1.0%20edited.docx%20-%20200_301_CCNA_v1.0_2.pdf), [FCA](/FCA.pdf)
 
 - I would also like to point out the extent of command line memorization necessary for the CCNA. [Here's a link](/CCNA-Commands) to a document that lists about 500 or so Cisco IOS commands that are necessary to understand for the CCNA.
 
