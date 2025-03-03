@@ -6,6 +6,8 @@
 
 I'm **Mitchell**, a tech enthusiast with a professional background in versatile support. I'm currently working out of <img src="https://cdn-icons-png.flaticon.com/128/495/495681.png" alt="Seattle" width="15"/> **Seattle, WA**.
 
+📷 Check out a bit of my photography archive [hosted here on GitHub!](https://github.com/5g6zjt8m/photography)
+
 Feel free to poke around my public repositories and take a look at some of my documented projects 📁. The goal of this page is to demonstrate a level of competency in the listed technologies through providing proof of work.
 
 This is entirely maintained in my free time.
