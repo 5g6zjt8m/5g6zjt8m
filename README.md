@@ -110,7 +110,7 @@ Here are some of the tools and technologies that I have varying degrees of exper
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="20"/> [Git](https://git-scm.com/)
 
 ## 📜 Certifications
-<img src="https://www.practicalnetworking.net/wp-content/uploads/2019/10/CCNA-Certification-Logo.jpg" alt="CCNA" width="200"/> <img src="https://images.credly.com/images/131de2f5-03f5-40a7-bcce-f9ae49e3979c/CompTIA_Security_2B.png" alt="Security+" width="200"/> <img src="https://images.credly.com/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="Network+" width="200"/> <img src="https://images.credly.com/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" alt="A+" width="200"/> <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="FCA" width="200"/>
+<img src="https://www.practicalnetworking.net/wp-content/uploads/2019/10/CCNA-Certification-Logo.jpg" alt="CCNA" width="200"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRUxFa93RXPkZP35mu6XGLkWT5ajq26WlgLA&s" alt="Security+" width="200"/> <img src="https://images.credly.com/size/110x110/images/3746480e-1d97-41f8-b27a-0b798d235306/CompTIA_Network_2B.png" alt="Network+" width="200"/> <img src="https://images.credly.com/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" alt="A+" width="200"/> <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="FCA" width="200"/>
 
 - **CCNA, Security+, Network+, A+, and FCA certified**. I think that it's also important to show the depth of the exam material for these certifications, and I have links to the exam objectives below.
 
