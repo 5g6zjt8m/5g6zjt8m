@@ -1,5 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width="30"/> Welcome to my GitHub.
 
+**Late 2025 Update: This page is out of date and will be updated to better reflect my advancements at some point. Big changes include directing my career into networking, and a massive revamp of my home network/lab/personal workstation. I now have a full depth server rack and run Arch full time.**
+
 <img src="https://cdn-icons-png.flaticon.com/128/533/533518.png" alt="side Image" align="right" width="200" height="auto" />
 
 ![](https://komarev.com/ghpvc/?username=5g6zjt8m&color=blue&style=flat-square)
